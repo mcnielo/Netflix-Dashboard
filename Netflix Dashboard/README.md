@@ -22,8 +22,6 @@ The dataset appears to contain information about two entries, one being a movie 
 
 ## 💡 HIGHLIGHTS
 
-Certainly, let's perform a basic analysis of the provided Netflix dataset. We'll examine some key statistics and insights from the data:
-
 1. **Content Type Distribution:**
    - There are both movies and TV shows in the dataset.
    - The dataset contains a mix of movie titles and TV show titles.
